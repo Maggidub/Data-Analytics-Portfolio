@@ -12,6 +12,12 @@ Bellabeat is a high-tech company that manufactures health-focused smart products
 
 ---
 
+## Dashboard Preview
+
+![Bellabeat Dashboard](Images/Dashboard.png)
+
+---
+
 ## Dashboard KPIs
 
 - Total Users
@@ -57,9 +63,13 @@ Bellabeat is a high-tech company that manufactures health-focused smart products
 ## Tools Used
 
 - Microsoft Power BI
+- SQL Server
+- SQL
+- Microsoft Excel
 - Power Query
 - DAX
-- Microsoft Excel
+- Git
+- GitHub
 
 ---
 
@@ -85,8 +95,23 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 
 ---
 
+## Project Files
+
+| File | Description |
+|------|-------------|
+| Bellabeat Executive Dashboard.pbix | Interactive Power BI Dashboard |
+| dailyActivity_merged.csv | Original Fitbit dataset |
+| Bellabeat_SQL_Script.sql | SQL analysis queries |
+| Dashboard.png | Dashboard screenshot |
+
 ## Author
 
 **Temitayo Medubi**
 
-Business Intelligence | Data Analytics | Power BI | SQL | Python
+Business Intelligence Analyst | Data Analyst | Power BI Developer
+
+GitHub:
+https://github.com/Maggidub
+
+Email:
+adeleyetemitayo@gmail.com
