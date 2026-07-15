@@ -4,9 +4,11 @@
 
 Welcome to my Data Analytics Portfolio.
 
-I enjoy transforming raw data into meaningful insights through dashboards, reports and data storytelling.
+I specialize in transforming raw data into meaningful insights using SQL, Power BI, Excel and Python.
 
----
+This repository showcases real-world analytics projects focused on business intelligence, dashboard development, data storytelling, and decision support.
+
+---s
 
 # Skills
 
