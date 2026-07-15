@@ -59,8 +59,6 @@ More projects coming soon...
 
 ## Connect with Me
 
-GitHub:
-https://github.com/Maggidub
-
-Email:
-adeleyetemitayo@gmail.com
+- 🌐 **GitHub:** [github.com/Maggidub](https://github.com/Maggidub)
+- 💼 **LinkedIn:** [linkedin.com/in/temitayomedubi](https://www.linkedin.com/in/temitayomedubi)
+- 📧 **Email:** adeleyetemitayo@gmail.com
