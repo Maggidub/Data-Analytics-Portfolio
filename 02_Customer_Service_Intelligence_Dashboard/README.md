@@ -1,66 +1,69 @@
-# Customer Service Intelligence Dashboard
+# Market Insights & Sales Performance Dashboard
 
-## Executive Dashboard | Customer Experience & Operational Performance Analysis
+## Executive Dashboard | Sales, Profitability & Market Performance Analysis
 
-This project presents an executive Business Intelligence dashboard designed to analyze customer service performance, operational efficiency, customer satisfaction, complaint trends, and service level compliance.
+This project presents an executive Power BI dashboard designed to analyze sales performance, profitability, customer segments, regional performance, and product trends.
 
-The dashboard demonstrates how data can be transformed into actionable insights that improve customer experience and support executive decision-making.
+The objective is to transform transactional sales data into actionable business insights that support executive decision-making and strategic planning.
 
 ---
 
 ## Business Objective
 
-Customer service is a critical driver of customer retention and business performance.
+Retail organizations generate thousands of sales transactions every day.
 
-The objective of this project is to analyze customer interactions, identify operational bottlenecks, monitor service quality, and recommend data-driven improvements that enhance customer satisfaction.
+The objective of this project is to analyze sales performance, identify profitable products, evaluate regional performance, understand customer purchasing behavior, and recommend strategies to improve profitability and business growth.
 
 ---
 
 ## Dashboard Preview
 
-*(Dashboard screenshot will be added here after development.)*
+*(Dashboard screenshot will be added after development.)*
 
 ---
 
 ## Key Performance Indicators (KPIs)
 
-- Total Customer Interactions
-- Average Resolution Time
-- Customer Satisfaction Score (CSAT)
-- First Contact Resolution Rate
-- Service Level Agreement (SLA) Compliance
-- Complaint Resolution Rate
+- Total Sales
+- Total Profit
+- Profit Margin
+- Number of Orders
+- Number of Customers
+- Average Order Value
 
 ---
 
 ## Dashboard Visualizations
 
-- Customer Interactions by Channel
-- Complaints by Category
-- Customer Satisfaction Trend
-- SLA Compliance by Team
-- Resolution Time Analysis
-- Customer Feedback Distribution
+- Monthly Sales Trend
+- Sales by Region
+- Sales by Category
+- Sales by Sub-category
+- Profit by Product
+- Discount vs Profit
+- Customer Segment Analysis
+- Top 10 Products
+- Bottom 10 Products
 
 ---
 
 ## Business Questions
 
-- Which customer channels receive the highest volume?
-- Which complaint categories occur most frequently?
-- Are SLA targets consistently achieved?
-- Which teams have the best customer satisfaction?
-- Which service areas require improvement?
+- Which regions generate the highest sales?
+- Which products generate the most profit?
+- Which customer segments are the most valuable?
+- How do discounts affect profitability?
+- Which categories should receive more investment?
 
 ---
 
 ## Expected Business Insights
 
-- Identify customer pain points.
-- Improve response and resolution times.
-- Enhance customer satisfaction.
-- Optimize operational efficiency.
-- Support strategic decision-making.
+- Identify profitable products.
+- Improve regional performance.
+- Optimize pricing strategies.
+- Reduce losses caused by excessive discounts.
+- Support executive decision-making.
 
 ---
 
@@ -76,20 +79,30 @@ The objective of this project is to analyze customer interactions, identify oper
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Modeling
 - SQL
+- Data Cleaning
 - Business Intelligence
 - KPI Reporting
-- Customer Analytics
-- Data Storytelling
 - Dashboard Design
+- Profitability Analysis
+- Data Storytelling
 
 ---
 
 ## Dataset
 
-To be added after dataset selection.
+Sample Superstore Dataset
+
+---
+
+## Project Files
+
+| File | Description |
+|------|-------------|
+| Sample - Superstore.csv | Original dataset |
+| Market_Insights_SQL.sql | SQL analysis |
+| Market Insights Dashboard.pbix | Interactive dashboard |
+| Dashboard.png | Dashboard screenshot |
 
 ---
 
@@ -97,4 +110,4 @@ To be added after dataset selection.
 
 **Temitayo Medubi**
 
-Business Intelligence | Customer Experience Analytics | Power BI | SQL | Python
+Business Intelligence | Market Insights | Power BI | SQL | Python
