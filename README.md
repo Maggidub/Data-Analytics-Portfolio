@@ -1,64 +1,103 @@
 # 👋 Hi, I'm Temitayo Medubi
 
-## Data Analyst | Business Intelligence Analyst | Power BI Developer
+## Data Analyst | Business Intelligence Analyst | Customer Experience Analytics
 
 Welcome to my Data Analytics Portfolio.
 
-I specialize in transforming raw data into meaningful insights using SQL, Power BI, Excel and Python.
+I am passionate about transforming raw data into meaningful business insights that support strategic decision-making. My work focuses on SQL, Python, Power BI, Tableau, and Excel to solve real business problems through analytics, visualization, and storytelling.
 
-This repository showcases real-world analytics projects focused on business intelligence, dashboard development, data storytelling, and decision support.
+---
 
----s
+# 🛠️ Technical Skills
 
-# Skills
-
-- Power BI
-- SQL
-- Microsoft Excel
+- SQL Server
 - Python
+- Microsoft Excel
+- Power BI
+- Tableau
+- Power Query
+- DAX
 - Data Cleaning
+- Data Validation
+- Data Modeling
 - Data Visualization
 - Business Intelligence
 - KPI Reporting
 - Dashboard Design
+- Exploratory Data Analysis (EDA)
+- Git & GitHub
 
 ---
 
-# Portfolio Projects
+# 📂 Portfolio Projects
 
-## 01. Bellabeat Fitness Activity Dashboard
+## 01. Bellabeat Fitness Analytics
 
-### Project Overview
+**Tools:** SQL • Power BI • Excel
 
-An executive Power BI dashboard developed using the Bellabeat Fitbit Fitness Dataset to analyze user activity patterns and provide actionable business insights.
+Analyzed Fitbit fitness tracker data to uncover user activity patterns and provide strategic marketing recommendations for Bellabeat.
 
-### Skills Used
-
-- Power BI
+**Highlights**
 - Data Cleaning
-- Data Modeling
-- DAX
+- KPI Development
+- Executive Dashboard
+- Business Insights
+
+📁 Folder:
+`01_Bellabeat_Fitness_Dashboard`
+
+---
+
+## 02. Customer Service Intelligence Dashboard
+
+**Tools:** SQL • Power BI • DAX
+
+Developed an executive dashboard for monitoring customer service performance, SLA compliance, complaint trends, operational efficiency, and customer satisfaction.
+
+**Highlights**
+- Customer Analytics
 - KPI Reporting
-- Dashboard Design
+- Executive Dashboard
 - Business Intelligence
 
-📂 Project Folder
-
-01_Bellabeat_Fitness_Dashboard
-
----
-
-More projects coming soon...
-
-- SQL Projects
-- Python Projects
-- Excel Dashboards
-- Tableau Dashboards
+📁 Folder:
+`02_Customer_Service_Intelligence_Dashboard`
 
 ---
 
-## Connect with Me
+## 03. Market Insights & Sales Analytics
 
-- 🌐 **GitHub:** [github.com/Maggidub](https://github.com/Maggidub)
-- 💼 **LinkedIn:** [linkedin.com/in/temitayomedubi](https://www.linkedin.com/in/temitayomedubi)
-- 📧 **Email:** adeleyetemitayo@gmail.com
+**Tools:** SQL • Python • Power BI • Tableau
+
+An end-to-end retail sales analytics project combining SQL, Python, Power BI, and Tableau to deliver executive dashboards and actionable business recommendations.
+
+**Highlights**
+- SQL Business Analysis
+- Python EDA
+- Power BI Dashboard
+- Tableau Dashboard
+- Executive Reporting
+
+📁 Folder:
+`03_Market_Insights_And_Sales_Analytics`
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL Optimization
+- Machine Learning with Python
+- Microsoft Fabric
+- Cloud Data Analytics
+- Advanced Tableau
+
+---
+
+# 🤝 Let's Connect
+
+🌐 **GitHub:** https://github.com/Maggidub
+
+💼 **LinkedIn:** https://www.linkedin.com/in/temitayomedubi
+
+📧 **Email:** adeleyetemitayo@gmail.com
+
