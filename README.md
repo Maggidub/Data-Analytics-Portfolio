@@ -2,6 +2,13 @@
 
 ## Data Analyst | Business Intelligence Analyst | Customer Experience Analytics
 
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 Welcome to my Data Analytics Portfolio.
 
 I am passionate about transforming raw data into meaningful business insights that support strategic decision-making. My work focuses on SQL, Python, Power BI, Tableau, and Excel to solve real business problems through analytics, visualization, and storytelling.
@@ -29,59 +36,45 @@ I am passionate about transforming raw data into meaningful business insights th
 
 ---
 
-# 📂 Portfolio Projects
+# 📂 Featured Portfolio Projects
 
-## 01. Bellabeat Fitness Analytics
-
-**Tools:** SQL • Power BI • Excel
-
-Analyzed Fitbit fitness tracker data to uncover user activity patterns and provide strategic marketing recommendations for Bellabeat.
-
-**Highlights**
-- Data Cleaning
-- KPI Development
-- Executive Dashboard
-- Business Insights
-
-📁 Folder:
-`01_Bellabeat_Fitness_Dashboard`
+| Project | Tools | Business Focus |
+|---------|-------|----------------|
+| **Bellabeat Fitness Dashboard** | SQL • Power BI • Excel | Fitness analytics, customer behaviour, KPI reporting |
+| **Customer Service Intelligence Dashboard** | SQL • Power BI | Customer experience, SLA monitoring, complaint analysis |
+| **Market Insights & Sales Analytics** | SQL • Python • Tableau • Power BI | Executive sales dashboard, profitability analysis, business insights |
 
 ---
 
-## 02. Customer Service Intelligence Dashboard
+## 🚀 Featured Projects
 
-**Tools:** SQL • Power BI • DAX
+### 📊 Bellabeat Fitness Dashboard
 
-Developed an executive dashboard for monitoring customer service performance, SLA compliance, complaint trends, operational efficiency, and customer satisfaction.
+Business intelligence dashboard analyzing fitness tracker data to uncover customer behaviour patterns and support Bellabeat's marketing strategy.
 
-**Highlights**
-- Customer Analytics
-- KPI Reporting
-- Executive Dashboard
-- Business Intelligence
+➡️ **View Project**
 
-📁 Folder:
-`02_Customer_Service_Intelligence_Dashboard`
+`[Open Project](./01_Bellabeat_Fitness_Dashboard)`
 
 ---
 
-## 03. Market Insights & Sales Analytics
+### 📈 Customer Service Intelligence Dashboard
 
-**Tools:** SQL • Python • Power BI • Tableau
+Executive dashboard designed to monitor customer interactions, service quality, SLA compliance and customer satisfaction.
 
-An end-to-end retail sales analytics project combining SQL, Python, Power BI, and Tableau to deliver executive dashboards and actionable business recommendations.
+➡️ **View Project**
 
-**Highlights**
-- SQL Business Analysis
-- Python EDA
-- Power BI Dashboard
-- Tableau Dashboard
-- Executive Reporting
-
-📁 Folder:
-`03_Market_Insights_And_Sales_Analytics`
+`[Open Project](./02_Customer_Service_Intelligence_Dashboard)`
 
 ---
+
+### 💹 Market Insights & Sales Analytics
+
+Comprehensive analytics project combining SQL, Python, Power BI and Tableau to analyze Superstore sales performance.
+
+➡️ **View Project**
+
+`[Open Project](./03_Market_Insights_And_Sales_Analytics)`
 
 # 📚 Currently Learning
 
