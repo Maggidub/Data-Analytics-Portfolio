@@ -52,9 +52,7 @@ I am passionate about transforming raw data into meaningful business insights th
 
 Business intelligence dashboard analyzing fitness tracker data to uncover customer behaviour patterns and support Bellabeat's marketing strategy.
 
-➡️ **View Project**
-
-**[Open Project](./01_Bellabeat_Fitness_Dashboard)**
+🔗 **[Open Bellabeat Project](./01_Bellabeat_Fitness_Dashboard)**
 
 ---
 
@@ -62,9 +60,7 @@ Business intelligence dashboard analyzing fitness tracker data to uncover custom
 
 Executive dashboard designed to monitor customer interactions, service quality, SLA compliance and customer satisfaction.
 
-➡️ **View Project**
-
-**[Open Project](./02_Customer_Service_Intelligence_Dashboard)**
+🔗 **[Open Customer Service Project](./02_Customer_Service_Intelligence_Dashboard)**
 
 ---
 
@@ -72,9 +68,7 @@ Executive dashboard designed to monitor customer interactions, service quality, 
 
 Comprehensive analytics project combining SQL, Python, Power BI and Tableau to analyze Superstore sales performance.
 
-➡️ **View Project**
-
-**[Open Project](./03_Market_Insights_And_Sales_Analytics)**
+🔗 **[Open Market Insights Project](./03_Market_Insights_And_Sales_Analytics)**
 
 # 📚 Currently Learning
 
@@ -93,4 +87,3 @@ Comprehensive analytics project combining SQL, Python, Power BI and Tableau to a
 💼 **LinkedIn:** https://www.linkedin.com/in/temitayomedubi
 
 📧 **Email:** adeleyetemitayo@gmail.com
-
