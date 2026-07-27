@@ -54,7 +54,7 @@ Business intelligence dashboard analyzing fitness tracker data to uncover custom
 
 ➡️ **View Project**
 
-[Open Project](./01_Bellabeat_Fitness_Dashboard)
+**[Open Project](./01_Bellabeat_Fitness_Dashboard)**
 
 ---
 
@@ -64,7 +64,7 @@ Executive dashboard designed to monitor customer interactions, service quality, 
 
 ➡️ **View Project**
 
-[Open Project](./02_Customer_Service_Intelligence_Dashboard)
+**[Open Project](./02_Customer_Service_Intelligence_Dashboard)**
 
 ---
 
@@ -74,7 +74,7 @@ Comprehensive analytics project combining SQL, Python, Power BI and Tableau to a
 
 ➡️ **View Project**
 
-[Open Project](./03_Market_Insights_And_Sales_Analytics)
+**[Open Project](./03_Market_Insights_And_Sales_Analytics)**
 
 # 📚 Currently Learning
 
